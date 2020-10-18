@@ -1,1 +1,1 @@
-# ML-Algorithms-for-Practice
+# ML-for-Practice
